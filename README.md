@@ -1,2 +1,0 @@
-# swDB
-Created with CodeSandbox
